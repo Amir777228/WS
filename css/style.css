@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+
+.logoText {
+    font-family: 'Shantell Sans', cursive;
+    font-weight: 800;
+}
+
+.textContent{
+    background: yellow;
+    color: black;
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+    font-family: 'Shantell Sans', cursive;
+    font-weight: 300;
+}
+
+
+
